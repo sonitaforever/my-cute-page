@@ -1,0 +1,53 @@
+/* Inserta tu CSS aqui*/
+
+
+ul{
+	text-align: center;
+	margin-left: 200px;
+}
+
+
+li{
+	float: left; 
+	list-style: none;
+	margin: 20px;
+
+}
+
+
+/*section foto fondo*/
+
+.imgfondo{
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+
+}
+
+.logo{
+	margin-left: 350px;
+	margin-top: 70px;
+}
+
+.logo img{
+	width: 60px;
+}
+
+.tgrande h1{
+	margin-left: 300px;
+	padding: 10px;
+	color: white;
+}
+
+.tchico h3{
+	margin-left: 330px;
+	color: white;
+}
+
+
+
+
+
+   
+    	
